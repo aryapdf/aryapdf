@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github.com/aryapdf.png" width="150" />
 </p>
-<h1 align="center">🌟 Welcome to Arya Pradan's GitHub Profile! 🌟</h1>
+<h1 align="center">🌟 Welcome to Arya Pradana's GitHub Profile! 🌟</h1>
 
 <!-- Introduction Section -->
 <p align="center">
@@ -16,7 +16,7 @@
 
 <!-- Anime GIF Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Vh2c84FAPVyvvU5RBN/giphy.gif" alt="Anime GIF" />
+  <iframe src="https://giphy.com/embed/11KzOet1ElBDz2" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eating-cowboy-bebop-11KzOet1ElBDz2">via GIPHY</a></p>
 </p>
 
 <!-- Skills Section -->
