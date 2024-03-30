@@ -1,17 +1,22 @@
-<!-- Replace [Your Name], [Title], [Subtitle], [Description], [Skills], [Tools], and [Contact] with your own information -->
+<!-- Replace [Your Name], [Title], [Subtitle], [Description], [Skills], [Tools], [Contact], [Portfolio], [Project Name], and [Project Description] with your own information -->
 
 <!-- Header Section -->
 <p align="center">
-  <img src="https://github.com/yourusername.png" width="150" />
+  <img src="https://github.com/aryapdf.png" width="150" />
 </p>
-<h1 align="center">🐱☕️ Arya Pradana's Catpuccino Latte README ☕️🐱</h1>
+<h1 align="center">🌟 Welcome to Arya Pradan's GitHub Profile! 🌟</h1>
 
 <!-- Introduction Section -->
 <p align="center">
-  <em>Front End Developer</em>
+  <em>Junior Web Developer | Front End Developer</em>
 </p>
 <p align="center">
-  Logical and result based programmer. Aim to be a full-stack developer.
+  Logical and results-driven Web Developer dedicated to programming and optimizing user-focused websites for customers with various business objectives. Experienced working with teams, especially Front-End Developers. Possesses solid knowledge in HTML5/CSS3, Javascript, NodeJS, TailwindCSS, Bootstrap, and ReactJS.
+</p>
+
+<!-- Anime GIF Section -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Vh2c84FAPVyvvU5RBN/giphy.gif" alt="Anime GIF" />
 </p>
 
 <!-- Skills Section -->
@@ -33,13 +38,34 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+<!-- Portfolio Section -->
+<h2 align="center">Portfolio</h2>
+<p align="center">
+  Check out my personal portfolio website: <a href="https://aryapdf.netlify.app/">aryapdf.netlify</a>
+</p>
+
+<!-- Projects Section -->
+<h2 align="center">Projects</h2>
+
+### Shopper Prototype(https://shoppeer-ecommerce.netlify.app/)
+E-Commerce application prototype.
+
+### Simple Movie Catalogue(https://marvelous-biscuit-c361ee.netlify.app/)
+A movie catalogue website.
+
+### Lakonono(https://lakonono.netlify.app/)
+A simple To-Do application.
+
 <!-- Contact Section -->
 <h2 align="center">Contact</h2>
 <p align="center">
-  <a href="mailto:youremail@aryaagnipradana@gmail.com">
+  <a href="mailto:aryaagnipradana@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/aryaagnipradana">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_aryapdf">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
