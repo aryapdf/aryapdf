@@ -1,10 +1,7 @@
 <!-- Replace [Your Name], [Title], [Subtitle], [Description], [Skills], [Tools], [Contact], [Portfolio], [Project Name], and [Project Description] with your own information -->
 
 <!-- Header Section -->
-<p align="center">
-  <img src="https://github.com/aryapdf.png" width="150" />
-</p>
-<h1 align="center">🌟 Welcome to Arya Pradana's GitHub Profile! 🌟</h1>
+<h1 align="center"> Welcome to Arya Pradana's GitHub Profile! 🍵🍵🍵</h1>
 
 <!-- Introduction Section -->
 <p align="center">
@@ -48,10 +45,10 @@
 <h2 align="center">Projects</h2>
 
 ### Shopper Prototype(https://shoppeer-ecommerce.netlify.app/)
-E-Commerce application prototype.
+A prototype front-end section of popular E-Commerce application.
 
 ### Simple Movie Catalogue(https://marvelous-biscuit-c361ee.netlify.app/)
-A movie catalogue website.
+A simple catalog movie that implemented REST API feature.
 
 ### Lakonono(https://lakonono.netlify.app/)
 A simple To-Do application.
