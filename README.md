@@ -5,10 +5,7 @@
 
 <!-- Introduction Section -->
 <p align="center">
-  <em>Junior Web Developer | Front End Developer</em>
-</p>
-<p align="center">
-  Logical and results-driven Web Developer dedicated to programming and optimizing user-focused websites for customers with various business objectives. Experienced working with teams, especially Front-End Developers. Possesses solid knowledge in HTML5/CSS3, Javascript, NodeJS, TailwindCSS, Bootstrap, and ReactJS.
+  <em>Front End Engineer</em>
 </p>
 
 <!-- Anime GIF Section -->
@@ -24,15 +21,19 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" alt="Nuxt.js" />
 </p>
 
 <!-- Tools Section -->
 <h2 align="center">Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" />
 </p>
 
 <!-- Portfolio Section -->
@@ -42,16 +43,7 @@
 </p>
 
 <!-- Projects Section -->
-<h2 align="center">Projects</h2>
 
-### Shopper Prototype(https://shoppeer-ecommerce.netlify.app/)
-A prototype front-end section of popular E-Commerce application.
-
-### Simple Movie Catalogue(https://marvelous-biscuit-c361ee.netlify.app/)
-A simple catalog movie that implemented REST API feature.
-
-### Lakonono(https://lakonono.netlify.app/)
-A simple To-Do application.
 
 <!-- Contact Section -->
 <h2 align="center">Contact</h2>
