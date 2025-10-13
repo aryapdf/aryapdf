@@ -17,13 +17,13 @@
 
 ```javascript
 const arya = {
-  role: "Full Stack Engineer",
+  role: "Frontend/Backend Engineer",
   experience: "2+ years",
-  currentFocus: ["Frontend Development", "Backend Architecture"],
+  currentFocus: ["Frontend Development", "Backend Engineer"],
   location: "Tangerang, Indonesia 🇮🇩",
   workingOn: "Building scalable web applications",
-  learning: "System Design & Cloud Architecture",
-  funFact: "I code better with coffee ☕"
+  learning: "Backend & system architecture",
+  funFact: "Playing guitar and bass when not coding"
 };
 ```
 
@@ -31,20 +31,19 @@ const arya = {
 
 **Frontend**
 ```
-HTML5 • CSS3 • JavaScript • TypeScript
-React • Next.js • Vue.js • Nuxt.js
-TailwindCSS • ANTD
+React • Next.js • Vue.js • Nuxt.js • TailwindCSS • Bootstrap • ANTD
+ScrollMagic • GSAP • SwiperJS • FamilyTree
+ 
 ```
 
-**Backend & E-commerce**
+**Backend**
 ```
-PHP • Node.js • Magento
+MySQL • Node.js • Magento
 ```
 
 **Tools & Environment**
 ```
-IntelliJ IDEA • WebStorm • Neovim
-Linux Mint (XFCE) • Git • GitHub
+IntelliJ IDEA • WebStorm • Neovim • Linux Mint (XFCE) • Git • GitHub
 ```
 
 **Design**
@@ -60,12 +59,7 @@ Figma • Adobe XD • Adobe Photoshop
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
 
 ### 🔧 Development Tools
 
