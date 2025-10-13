@@ -11,8 +11,6 @@
   
 </div>
 
----
-
 ### 👨‍💻 About Me
 
 ```javascript
@@ -74,8 +72,6 @@ Figma • Adobe XD • Adobe Photoshop
 
 </div>
 
----
-
 <div align="center">
   
 ### 📊 GitHub Stats
@@ -84,8 +80,6 @@ Figma • Adobe XD • Adobe Photoshop
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryapdf&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
-
----
 
 <div align="center">
   
@@ -99,8 +93,6 @@ Figma • Adobe XD • Adobe Photoshop
 <img src="https://komarev.com/ghpvc/?username=aryapdf&style=for-the-badge&color=blueviolet" alt="Profile views" />
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
