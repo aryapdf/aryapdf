@@ -1,60 +1,113 @@
-<!-- Replace [Your Name], [Title], [Subtitle], [Description], [Skills], [Tools], [Contact], [Portfolio], [Project Name], and [Project Description] with your own information -->
+<!-- Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Arya+Pradana+%F0%9F%91%8B;Full+Stack+Engineer+%7C+2%2B+Years+Experience;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</div>
 
-<!-- Header Section -->
-<h1 align="center"> Welcome to Arya Pradana's GitHub Profile! 🍵🍵🍵</h1>
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://aryapdf.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaagnipradana)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryaagnipradana@gmail.com)
+  
+</div>
 
-<!-- Introduction Section -->
-<p align="center">
-  <em>Front End Engineer</em>
-</p>
+---
 
-<!-- Anime GIF Section -->
-<p align="center">
-   <img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" alt="Anime GIF" />
-</p>
+### 👨‍💻 About Me
 
-<!-- Skills Section -->
-<h2 align="center">Skills</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" alt="Nuxt.js" />
-</p>
+```javascript
+const arya = {
+  role: "Full Stack Engineer",
+  experience: "2+ years",
+  currentFocus: ["Frontend Development", "Backend Architecture"],
+  location: "Tangerang, Indonesia 🇮🇩",
+  workingOn: "Building scalable web applications",
+  learning: "System Design & Cloud Architecture",
+  funFact: "I code better with coffee ☕"
+};
+```
 
-<!-- Tools Section -->
-<h2 align="center">Tools</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" />
-</p>
+### 🛠️ Tech Stack
 
-<!-- Portfolio Section -->
-<h2 align="center">Portfolio</h2>
-<p align="center">
-  Check out my personal portfolio website: <a href="https://aryapdf.netlify.app/">aryapdf.netlify</a>
-</p>
+**Frontend**
+```
+HTML5 • CSS3 • JavaScript • TypeScript
+React • Next.js • Vue.js • Nuxt.js
+TailwindCSS • ANTD
+```
 
-<!-- Projects Section -->
+**Backend & E-commerce**
+```
+PHP • Node.js • Magento
+```
 
+**Tools & Environment**
+```
+IntelliJ IDEA • WebStorm • Neovim
+Linux Mint (XFCE) • Git • GitHub
+```
 
-<!-- Contact Section -->
-<h2 align="center">Contact</h2>
-<p align="center">
-  <a href="mailto:aryaagnipradana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryaagnipradana">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/_aryapdf">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+**Design**
+```
+Figma • Adobe XD • Adobe Photoshop
+```
+
+<div align="center">
+  
+### 💻 Languages & Frameworks
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
+
+### 🔧 Development Tools
+
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
+<img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+  
+### 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryapdf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryapdf&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_My_Site-A177FF?style=for-the-badge)](https://aryapdf.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryaagnipradana)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_aryapdf)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail)](mailto:aryaagnipradana@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=aryapdf&style=for-the-badge&color=blueviolet" alt="Profile views" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
