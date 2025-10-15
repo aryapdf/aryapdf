@@ -39,16 +39,6 @@ ScrollMagic • GSAP • SwiperJS • FamilyTree
 MySQL • Node.js • Magento
 ```
 
-**Tools & Environment**
-```
-IntelliJ IDEA • WebStorm • Neovim • Linux Mint (XFCE) • Git • GitHub
-```
-
-**Design**
-```
-Figma • Adobe XD • Adobe Photoshop
-```
-
 <div align="center">
   
 ### 💻 Languages & Frameworks
