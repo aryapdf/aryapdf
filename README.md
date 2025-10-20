@@ -1,4 +1,5 @@
 <!-- Header -->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Arya+Pradana+%F0%9F%91%8B;Full+Stack+Engineer+%7C+2%2B+Years+Experience;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </div>
