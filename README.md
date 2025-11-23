@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Arya+Pradana+%F0%9F%91%8B;Full+Stack+Engineer+%7C+2%2B+Years+Experience;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Arya+Pradana+%F0%9F%91%8B;Full+Stack+Engineer;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -67,7 +67,7 @@ MySQL • Node.js • Magento
   
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryapdf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryapdf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryapdf&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
