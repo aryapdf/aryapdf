@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">  
-  <h3>Frontend/Backend Engineer | Building Scalable Web Applications</h3>
+  <h2>Frontend/Backend Engineer | Building Scalable Web Applications</h2>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://aryapdf.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaagnipradana)
@@ -110,10 +110,4 @@ const arya = {
 📫 Reach out: **aryaagnipradana@gmail.com**  
 🌐 Portfolio: **[aryapdf.vercel.app](https://aryapdf.vercel.app/)**
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
