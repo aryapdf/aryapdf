@@ -1,7 +1,5 @@
 <!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arya%20Agni%20Pradana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-  
+<div align="center">  
   <h3>Frontend/Backend Engineer | Building Scalable Web Applications</h3>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://aryapdf.netlify.app/)
