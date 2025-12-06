@@ -1,10 +1,6 @@
 <!-- Header -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Arya+Pradana+%F0%9F%91%8B;Full+Stack+Engineer;Building+Modern+Web+Experiences" alt="Typing SVG" />
-</div>
-
-<div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://aryapdf.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaagnipradana)
