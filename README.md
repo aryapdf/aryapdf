@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">  
-  <h2>Frontend/Backend Engineer | Building Scalable Web Applications</h2>
+  <h1>Frontend/Backend Engineer | Building Scalable Web Applications</h1>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://aryapdf.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaagnipradana)
